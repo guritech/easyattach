@@ -19,7 +19,7 @@ public class Sample {
 
   	/**
 	 * @param args
-	 */
+	 */ 
 	    private static final String host = "smtp.mail.yahoo.com";
 	    private static final int port = 587;//465,587,25
 	    private static final String from = "gurinder_inder@yahoo.com";
