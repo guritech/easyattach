@@ -14,6 +14,7 @@ public class Attachment
      messageBodyPart.setDataHandler(new DataHandler(sources));
      messageBodyPart.setFileName(fileAttachments);
      multiparts.addBodyPart(messageBodyPart);
+}
 	
 
 
